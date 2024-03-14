@@ -23,27 +23,27 @@ Banklink is a fictional online bank. This is a project designed by Jonas Schmedt
 
 It is important that there is no actual registration behind this! Be sure to use usernames in lowercase!
 
-### Account1
+### Account 1
 
 - Username: fr
 - Password: 1111
 
-### Account2
+### Account 2
 
 - Username: sa
 - Password: 2222
 
-### Account3
+### Account 3
 
 - Username: stw
 - Password: 3333
 
-### Account4
+### Account 4
 
 - Username: ss
 - Password: 4444
 
-## Built in
+## Built-in
 
 1. HTML5
 2. CSS
@@ -55,4 +55,4 @@ I learned a lot about DOM manipulation and user interaction. I was able to pract
 
 ## Acknowledgment
 
-Thanks to everyone who gives feedback on my solution. It definitely helps you find new ways to code and find easier solutions!
+Thanks to everyone who gives feedback on my solution. It helps you find new ways to code and find easier solutions!
