@@ -1,10 +1,11 @@
+<h1 align="center">Banklink Online Bank 🏦</h1>
+
+### <h3 align="center"> [Live](https://kokenydaniel.github.io/Bankist/)</h3>
+
 # Banklink | When banking meets minimalist
 
 A full-fledged banking application. I have implemented the login and sign-up feature as you see in digital banks in reality. Though this banking application doesn't have a database or a server to store the user's data like their username, password, and their account transaction details, I have pre-defined user details like their username, password, and transaction details in an object. You can't create a digital account or sign up right now. As of now I have defined 4 users details. You can log in with their username and password, to see how the application works. Here is the details 👇🏼
 
-<h1 align="center">Banklink Online Bank 🏦</h1>
-
-### <h3 align="center"> [Live](https://kokenydaniel.github.io/Bankist/)</h3>
 
 ## About The Project
 
