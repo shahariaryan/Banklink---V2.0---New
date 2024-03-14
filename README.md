@@ -1,8 +1,8 @@
 # Banklink | When banking meets minimalist
 
-A full fledged banking application. I have implemented the login and sign up feature as you see in digital banks in reality. Though this banking application does'nt have a database or a server to store the user's data like their username, password and their account transaction details, I have pre defined users details like their username, password and transaction details in a object. You can't create a digital account or signup right now. As of now i have defined 4 users details. You can login with their username and password, to see how the application really works. Here is the details 👇🏼
+A full-fledged banking application. I have implemented the login and sign-up feature as you see in digital banks in reality. Though this banking application doesn't have a database or a server to store the user's data like their username, password, and their account transaction details, I have pre-defined user details like their username, password, and transaction details in an object. You can't create a digital account or sign up right now. As of now I have defined 4 users details. You can log in with their username and password, to see how the application works. Here is the details 👇🏼
 
-h1 align="center">Banklink Online Bank 🏦</h1>
+<h1 align="center">Banklink Online Bank 🏦</h1>
 
 ### <h3 align="center"> [Live](https://kokenydaniel.github.io/Bankist/)</h3>
 
@@ -10,7 +10,7 @@ h1 align="center">Banklink Online Bank 🏦</h1>
 
 ### What is Banklink?
 
-Banklink is a fictional online bank. This is a project designed by Jonas Schmedtmann to practice DOM manipulation and user interaction. You have the possibility to log into the account and use several functions, just like in a real bank!
+Banklink is a fictional online bank. This is a project designed by Jonas Schmedtmann to practice DOM manipulation and user interaction. You can log into the account and use several functions, just like in a real bank!
 
 ### Functions:
 
@@ -21,7 +21,7 @@ Banklink is a fictional online bank. This is a project designed by Jonas Schmedt
 
 ## login details
 
-It is important that there is no actual registration behind this! Be sure to use usernames in lowercase!
+There must be no actual registration behind this! Be sure to use usernames in lowercase!
 
 ### Account 1
 
@@ -55,4 +55,4 @@ I learned a lot about DOM manipulation and user interaction. I was able to pract
 
 ## Acknowledgment
 
-Thanks to everyone who gives feedback on my solution. It helps you find new ways to code and find easier solutions!
+This is a project from Jonas Schmedtmann Udamy's course. and this project was done after completing the course. So a big thanks to Jonas Schmedtmann.
