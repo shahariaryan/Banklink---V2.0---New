@@ -1,6 +1,6 @@
 <h1 align="center">Banklink Online Bank 🏦</h1>
 
-### <h3 align="center"> [Live](https://kokenydaniel.github.io/Bankist/)</h3>
+### <h3 align="center"> [Live](https://banklink-bankingpartner-by-fozlur.netlify.app/)</h3>
 
 # Banklink | When banking meets minimalist
 
