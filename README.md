@@ -9,9 +9,6 @@ A full-fledged banking application. I have implemented the login and sign-up fea
 
 ## About The Project
 
-### What is Banklink?
-
-Banklink is a fictional online bank. This is a project designed by Jonas Schmedtmann to practice DOM manipulation and user interaction. You can log into the account and use several functions, just like in a real bank!
 
 ### Functions:
 
